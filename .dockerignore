@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+digital_twin.db
+.git/
+.gitignore
+.venv/
+venv/
+.idea/
+.vscode/
